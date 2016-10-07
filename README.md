@@ -1,0 +1,2 @@
+# proiectArduino
+Proiect sincretic
