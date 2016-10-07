@@ -1,0 +1,12 @@
+Lista de materiale:
+
+1. Placa dezvoltare compatibila Arduino           1 buc            35 lei
+2. Senzor de temperatura DS18b20                  1 buc            12 lei
+3. Afisaj 4 digiti LED 							  1 buc 		   10 lei
+4. LED 											  3 buc 		    3 lei
+5. Push button 									  1 buc 	  	  0.5 lei
+6. Cabluri pentru breadboard (10 buc)			  1 buc  		    5 lei
+7. Breadboard									  1 buc 		   25 lei
+8. Rezistor (5 buc) 							  1 buc				3 lei
+
+TOTAL 															113.5 lei
